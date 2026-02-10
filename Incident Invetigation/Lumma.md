@@ -1,7 +1,7 @@
 # Incident Investigation Report: Lumma Stealer via Click Fix Phishing
 **Event ID:** SOC338 - 316  
 **Analysis Date:** March 13, 2025  
-**Analyst:** [Matheus Lemos]  
+**Analyst:** Matheus Lemos
 **Verdict:** True Positive (TP)  
 
 ---
